@@ -1,0 +1,77 @@
+A.navbar-brand:hover, .navbar-brand:focus {
+    color: #8f9c44  !important;
+}
+.navbar-brand {
+  color:  #fff!important; 
+  
+}
+.navbar-custom{
+    background-color: black;
+}
+.page-footer{
+  position: bottom;  
+  background-color: black;
+  color:grey;
+}
+.footer {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: black;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  padding-top: 10rem;
+}
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+#oye{
+  color: rgb(255, 255, 255);
+  font-weight: 900;
+  text-decoration: none;
+  font-family: 'Sacramento', cursive;
+}
+#oye:hover, #oye:focus{
+  color: #0099ff;
+}
+.body1{
+  background-color:black;
+  position: relative;
+}
+
+.card-header{
+  font-size: x-large;
+  font-weight: 500;
+}
+.custom-container{
+  padding-top: 20px;
+  background-color:white;
+}
+.text-gplay{
+  color: white;
+  font-weight: 500;
+}
+.text-gplay:hover{
+  color:rgb(55, 172, 55);
+  text-decoration: none;
+}
+.gplay{
+  color: whitesmoke;
+}
+.gplay:hover{
+  color:rgb(0, 255, 0);
+  text-decoration: none;
+}
+.rensite{
+  color: whitesmoke;
+}
+.rensite:hover{
+  color:#686230;
+  text-decoration: none;
+}
+#wlogo{
+  display: inline-block;
+}
+.social-ic{
+  color: white;
+}
